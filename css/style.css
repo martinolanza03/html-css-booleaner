@@ -17,12 +17,7 @@ h1 {
     margin: 0px;
 }
 
-h2 {
-    margin: 0px;
-    color: grey;
-}
-
-h3 {
+.subtitle{
     margin: 0px;
     color: grey;
 }
