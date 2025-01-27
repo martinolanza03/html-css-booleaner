@@ -1,0 +1,15 @@
+.logo {
+    width: 220px;
+    height: 220px;
+
+}
+
+header {
+    height: 175px;
+    display: block;
+    background-image: url(../img/pattern.png) ;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-color:rgb(78, 159, 253) ;
+}
+
