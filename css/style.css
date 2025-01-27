@@ -11,5 +11,10 @@ header {
     background-repeat: repeat;
     background-attachment: fixed;
     background-color:rgb(78, 159, 253) ;
+    
 }
 
+h1 {
+    font-size: 50px;
+
+}
