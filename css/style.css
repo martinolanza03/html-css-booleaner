@@ -50,3 +50,28 @@ thead {
 .color-table {
     background-color: rgb(177, 229, 242) ;
 }
+
+.text-image {
+    color: white;
+}
+
+h2 {
+    margin: 0px;
+}
+
+.monitor {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+.graph {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
