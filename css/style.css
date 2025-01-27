@@ -43,3 +43,9 @@ span {
     background-color: yellow;
     color: black;
 }
+
+thead {
+    background-color:rgb(32, 169, 229);
+    color: white;
+
+}
