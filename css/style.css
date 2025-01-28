@@ -1,15 +1,16 @@
 .logo {
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 100px;
 
 }
 
 header {
-    height: 175px;
+    height: 100px;
     display: block;
     background-image: url(../img/pattern.png) ;
     background-repeat: repeat;
     background-color:rgb(78, 159, 253) ;
+    background-size: 400px ;
 }
 
 h1 {
