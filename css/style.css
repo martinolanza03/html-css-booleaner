@@ -26,6 +26,7 @@ h1 {
 .subtitle{
     margin: 0px;
     color: grey;
+
 }
 
 span {
@@ -53,6 +54,8 @@ table{
     border-collapse: collapse;
     text-align: left;
     width: 100%;
+    margin-top: 20px ;
+    margin-bottom: 20px;
 }
 
 .misure{
@@ -87,3 +90,11 @@ h2 {
     margin: 0px;
 }
 
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul{
+    margin-left: 20px;
+}
