@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+
 }
 .logo {
     width: 200px;
@@ -41,15 +42,21 @@ span {
     color: black;
 }
 
-th{
-   width: 700px;
-   text-align: left;
-}
 
 thead {
     background-color:rgb(32, 169, 229);
     color: white;
 
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+
+.misure{
+    width: 50%;
 }
 
 .color-table {
